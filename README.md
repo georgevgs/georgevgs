@@ -14,10 +14,10 @@ I love to constantly experiment them in side projects.
 
 ## 📈 GitHub Stats
 <a href="https://github.com/georgevgs/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/georgevgs/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoita&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francsco's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="George's GitHub Stats" />
 </a>
 
 <!--
