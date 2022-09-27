@@ -10,7 +10,7 @@ I love to constantly experiment them in side projects.
 
 ## 💻 Some side projects currently open 
  - [GV Tools](https://github.com/georgevgs/gv-tools): I am adding useful tools to help me facilitate and make my working days more efficient.
- - [Bug reporting system](https://github.com/georgevgs/bugreportingsystem): a full working example using caching strategies for static assets and also GET requests using Angular. 
+ - [Bug reporting system](https://github.com/georgevgs/bugreportingsystem): a fully working example using caching strategies for static assets and also GET requests using Angular. 
 
 ## 📈 GitHub Stats
 <a href="https://github.com/georgevgs/">
