@@ -1,15 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=200&section=header&text=George%20Vagdas&fontColor=fff&fontSize=42&fontAlignY=35&desc=Full-Stack%20De
-  veloper%20%C2%B7%20Athens,%20Greece&descSize=18&descAlignY=55)                                                                                                                                           
+  veloper%20•%20Athens%20Greece&descSize=18&descAlignY=55)                                                                                                                                                   
                                                                                                                                                                                                              
   <p align="center">                                                                                                                                                                                         
-    <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/🌐_vagdas.eu-ff7900?style=for-the-badge" alt="Portfolio" /></a>                                                                       
-    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>                          
+    <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/vagdas.eu-ff7900?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>                                             
+    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:dev@vagdas.eu"><img src="https://img.shields.io/badge/Email-00a800?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3885&center=true&vCenter=true&width=500&lines=React+%26+TypeScript+specialist;Building+performant+scalable+web+apps;Pas
-  sionate+about+PWAs+%26+i18n;5%2B+years+of+professional+experience" alt="Typing SVG" />
   </p>
 
   ---
@@ -76,26 +71,23 @@
 
   ### 💻 Projects
 
-  <a href="https://budgard.com">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgevgs&repo=budgard&title_color=ff3885&icon_color=ff7900&text_color=c9cacc&bg_color=1d1f21" />
-  </a>
-  <a href="https://thekitchenstudio.gr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgevgs&repo=the-kitchen-studio&title_color=ff3885&icon_color=ff7900&text_color=c9cacc&bg_color=1d1f21" />
-  </a>
-  <a href="https://github.com/georgevgs/gv-tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgevgs&repo=gv-tools&title_color=ff3885&icon_color=ff7900&text_color=c9cacc&bg_color=1d1f21" />
-  </a>
+  | | Project | Description | Stack |
+  |---|---------|-------------|-------|
+  | 💰 | [**Budgard**](https://budgard.com) | Personal expense tracker PWA — bilingual, installable, syncs across devices | `React 19` `TypeScript` `Supabase` `Netlify` |
+  | 🍳 | [**The Kitchen Studio**](https://thekitchenstudio.gr) | Bilingual site for a custom kitchen furniture studio in Glyfada | `Astro 5` `Tailwind` `i18next` `Vercel` |
+  | 🧰 | [**GV Tools**](https://github.com/georgevgs/gv-tools) | Useful tools to make my working days more efficient | `TypeScript` |
 
   ---
 
   ### 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&count_private=true&title_color=ff3885&icon_color=ff7900&text_color=c9cacc&bg_color=1d1f21&hide_border=true" 
+  <a href="https://github.com/georgevgs/">
+    <img src="https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
   height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&layout=compact&title_color=ff3885&icon_color=ff7900&text_color=c9cacc&bg_color=1d1f21&hide
-  _border=true" height="170" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=georgevgs&background=1d1f21&ring=ff7900&fire=ff3885&currStreakLabel=ff3885&sideLabels=c9cacc&currStreakNum=c9cacc&sideNums=c9cacc&dates=555
-  555&hide_border=true" width="100%" />
+  </a>
+  <a href="https://github.com/georgevgs/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+  height="170" />
+  </a>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=100&section=footer)
