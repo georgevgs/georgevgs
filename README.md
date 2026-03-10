@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm George 👋</h1>                                                                                                                                                                 
                                                                                                                                                                                                              
   <p align="center">                                                                                                                                                                                         
-    <strong>Full-Stack Developer</strong> from Greece, based in Athens<br>                                                                                                                                   
-    Specializing in <strong>React</strong> & <strong>TypeScript</strong> — building performant, scalable web apps                                                                                          
-  </p>                                                                                                                                                                                                       
-                                                                                                                                                                                                             
-  <p align="center">                                                                                                                                                                                         
-    <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/vagdas.eu-000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>                                                  
-    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>                            
+    <strong>Full-Stack Developer</strong> from Greece, based in Athens<br>
+    Specializing in <strong>React</strong> & <strong>TypeScript</strong> — building performant, scalable web apps                                                                                            
+  </p>                                                                                                                                                                                                     
+
+  <p align="center">
+    <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/vagdas.eu-000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   ---
@@ -61,15 +61,8 @@
 
   ### 📈 GitHub Stats
 
-  <p>
-    <a href="https://github.com/georgevgs/">
-      <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub
-  Stats" />
-    </a>
-    <a href="https://github.com/georgevgs/">
-      <img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="Top
-   Languages" />
-    </a>
-  </p>
+  ![George's GitHub
+  Stats](https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+  ![Top
+  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)
