@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=200&section=header&text=George%20Vagdas&fontColor=fff&fontSize=42&fontAlignY=35&desc=Full-Stack%20De
-  veloper%20•%20Athens%20Greece&descSize=18&descAlignY=55)                                                                                                                                                   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=200&section=header&text=George%20Vagdas&fontColor=fff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%" />                                                                                                                                                    
                                                                                                                                                                                                              
   <p align="center">                                                                                                                                                                                         
     <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/vagdas.eu-ff7900?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>                                             
-    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>                          
     <a href="mailto:dev@vagdas.eu"><img src="https://img.shields.io/badge/Email-00a800?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -77,17 +76,4 @@
   | 🍳 | [**The Kitchen Studio**](https://thekitchenstudio.gr) | Bilingual site for a custom kitchen furniture studio in Glyfada | `Astro 5` `Tailwind` `i18next` `Vercel` |
   | 🧰 | [**GV Tools**](https://github.com/georgevgs/gv-tools) | Useful tools to make my working days more efficient | `TypeScript` |
 
-  ---
-
-  ### 📈 GitHub Stats
-
-  <a href="https://github.com/georgevgs/">
-    <img src="https://github-readme-stats.vercel.app/api?username=georgevgs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
-  height="170" />
-  </a>
-  <a href="https://github.com/georgevgs/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevgs&hide=java,html,powershell,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
-  height="170" />
-  </a>
-
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=100&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=100&section=footer" width="100%" />
