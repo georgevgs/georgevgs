@@ -1,79 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=200&section=header&text=George%20Vagdas&fontColor=fff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer&descSize=18&descAlignY=55" width="100%" />                                                                                                                                                    
-                                                                                                                                                                                                             
-  <p align="center">                                                                                                                                                                                         
-    <a href="https://vagdas.eu"><img src="https://img.shields.io/badge/vagdas.eu-ff7900?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>                                             
-    <a href="https://www.linkedin.com/in/gvagdas"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>                          
-    <a href="mailto:dev@vagdas.eu"><img src="https://img.shields.io/badge/Email-00a800?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<div align="center">
 
-  ---
+<a href="https://vagdas.eu"><img src="assets/hero.svg" alt="Hello, I’m George Vagdas. Full-Stack Developer from Athens, Greece." width="99.80%"></a>
 
-  ### ⚡ About Me
+</div>
 
-  - 🔭 Specializing in **React** & **TypeScript** with 5+ years of experience
-  - 🏗️Building scalable front-end architectures & reusable component libraries
-  - 🌍 Passionate about **PWAs**, **i18n**, and modern **web APIs**
-  - 🚀 Shipped products across fintech, SaaS, e-commerce & hospitality
+<p align="center">
+<a href="https://vagdas.eu"><img src="assets/stack.svg" alt="Tech stack: React, TypeScript, Astro, Angular, Node.js, Tailwind, Swift, SwiftUI, Expo, Supabase, Cloudflare, Rust, Jest, Cypress, MySQL, MongoDB" width="54.11%"></a><a href="https://www.linkedin.com/in/gvagdas"><img src="assets/linkedin.svg" alt="LinkedIn: in/gvagdas" width="22.85%"></a><a href="https://github.com/georgevgs"><img src="assets/github.svg" alt="GitHub: georgevgs" width="22.85%"></a>
+</p>
 
-  ---
+<p align="center">
+<a href="https://vagdas.eu/work/dromo"><img src="assets/dromo.svg" alt="Dromo: an adaptive running planner for iPhone that sends workouts to Apple Watch. Swift 6, SwiftUI, WorkoutKit, HealthKit." width="99.80%"></a>
+</p>
 
-  ### 🛠️Tech Stack
+<p align="center"><img src="assets/label-work.svg" alt="Selected work" width="99.80%"></p>
 
-  <table>
-    <tr>
-      <td><b>Front End</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Chakra_UI-1BB2A9?style=for-the-badge&logo=chakraui&logoColor=fff" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Back End</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-        <img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Testing</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=000" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Cloud</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" />
-        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=fff" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+<a href="https://vagdas.eu/work/budgard"><img src="assets/work-budgard.svg" alt="Budgard: a money PWA built with React and Supabase" width="33.27%"></a><a href="https://vagdas.eu/work/low-and-flow"><img src="assets/work-lowandflow.svg" alt="Low &amp; Flow: a bike shop store built with Astro and Cloudflare" width="33.27%"></a><a href="https://vagdas.eu/work/the-kitchen-studio"><img src="assets/work-kitchen.svg" alt="The Kitchen Studio: a bilingual studio site built with Astro 7" width="33.27%"></a>
+</p>
 
-  ---
+<p align="center">
+<a href="https://vagdas.eu/work/karadimas"><img src="assets/work-karadimas.svg" alt="Karadimas: a bath and tiles showroom site built with Astro and Tailwind" width="49.90%"></a><a href="https://vagdas.eu/work/vip-tour-transfer-kos"><img src="assets/work-gkvip.svg" alt="GK Vip Transfer: a Kos transfer service site built with Astro and React" width="49.90%"></a>
+</p>
 
-  ### 💻 Projects
+<p align="center"><img src="assets/label-side.svg" alt="Side projects" width="99.80%"></p>
 
-  | | Project | Description | Stack |
-  |---|---------|-------------|-------|
-  | 💰 | [**Budgard**](https://budgard.com) | Personal expense tracker PWA — bilingual, installable, syncs across devices | `React 19` `TypeScript` `Supabase` `Netlify` |
-  | 🍳 | [**The Kitchen Studio**](https://thekitchenstudio.gr) | Bilingual site for a custom kitchen furniture studio in Glyfada | `Astro 5` `Tailwind` `i18next` `Vercel` |
-  | 🧰 | [**GV Tools**](https://github.com/georgevgs/gv-tools) | Useful tools to make my working days more efficient | `TypeScript` |
+<p align="center">
+<a href="https://github.com/georgevgs/trailwatch"><img src="assets/mini-trailwatch.svg" alt="TrailWatch (Swift): GPX hiking navigator for Apple Watch" width="33.27%"></a><a href="https://github.com/georgevgs/closetly"><img src="assets/mini-closetly.svg" alt="Closetly (TypeScript): iOS closet and outfit app in Expo" width="33.27%"></a><a href="https://github.com/georgevgs/grocery-price-tracker"><img src="assets/mini-timoula.svg" alt="Timoula (TypeScript): Greek supermarket price tracker PWA" width="33.27%"></a>
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,50:ff3885,100:00a800&height=100&section=footer" width="100%" />
+<p align="center">
+<a href="https://github.com/georgevgs/card-trooper"><img src="assets/mini-cardtrooper.svg" alt="Card Trooper (TypeScript): PWA for loyalty and store cards" width="33.27%"></a><a href="https://github.com/georgevgs/gree-ac"><img src="assets/mini-greeac.svg" alt="GREE AC (Rust): local control for GREE air conditioners" width="33.27%"></a><a href="https://github.com/georgevgs/gv-portfolio"><img src="assets/mini-portfolio.svg" alt="gv-portfolio (Astro): the source of vagdas.eu" width="33.27%"></a>
+</p>
+
+<p align="center">
+<a href="mailto:dev@vagdas.eu"><img src="assets/contact.svg" alt="Let’s work together. Get in touch: dev@vagdas.eu" width="99.80%"></a>
+</p>
+
+<p align="center"><sub>Athens, Greece &nbsp;·&nbsp; <a href="https://vagdas.eu">vagdas.eu</a> &nbsp;·&nbsp; <a href="mailto:dev@vagdas.eu">dev@vagdas.eu</a></sub></p>
